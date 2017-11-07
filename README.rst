@@ -8,10 +8,17 @@ Description
 ===========
 
 .. image:: /figures/rednose.png
-   :height: 10px
-   :width: 20px
+    :width: 200px
+    :align: center
+    :height: 100px
+    :alt: alternate text
+    
+    
+.. image:: /figures/rednose.png
+   :height: 1px
+   :width: 2px
    :alt: alternate text
-   :align: right
+   :align: center
 
 
 Image of test.
