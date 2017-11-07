@@ -8,9 +8,11 @@ Description
 ===========
 
 .. image:: /figures/rednose.png
-   :scale: 50 %
+   :height: 10px
+   :width: 20px
    :alt: alternate text
    :align: right
+
 
 Image of test.
 
