@@ -8,9 +8,9 @@ Description
 ===========
 
 .. image:: /figures/rednose.png
-    :width: 200px
+    :width: 20px
     :align: center
-    :height: 100px
+    :height: 10px
     :alt: alternate text
     
     
